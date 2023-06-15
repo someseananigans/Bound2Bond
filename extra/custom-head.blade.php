@@ -17,7 +17,7 @@ Down below, you can find a few examples using this function:
 
 
 --}}
-
+<link rel="stylesheet" href="{{themeAsset('custom.css')}}">
 <style>
 	html{
 		font-size: 100%;

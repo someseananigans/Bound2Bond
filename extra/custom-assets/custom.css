@@ -1,0 +1,19 @@
+.rounded-avatar {
+    border-radius: 0%;
+    width: 200px;
+    height: 150px;
+}
+
+span > p {
+    font-variant: petite-caps;
+}
+
+h2 {
+    font-variant: petite-caps;
+}
+
+.description-parent {
+    padding-bottom: 1px;
+    margin-top: -20px;
+    font-variant: petite-caps;
+}
